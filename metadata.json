@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A beautiful, fully functional modern basic calculator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
